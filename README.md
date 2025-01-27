@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualization
 
-![Sorting Algorithm Visualization](image.png)
+![Sorting Algorithm Visualization](https://raw.githubusercontent.com/Simret101/Sorting_Algorithm_Visualizer/main/assets/photo_2025-01-27_14-53-43.jpg)
 
 This project is a visualization tool for understanding and demonstrating sorting algorithms. Built with Python and Pygame, the visualization dynamically displays the sorting process in real-time, providing an interactive way to learn sorting techniques.
 
@@ -36,6 +36,8 @@ To run this project, make sure you have the following installed:
 
 ---
 ## Demo Overview
+![Alt Text](https://github.com/Simret101/Sorting_Algorithm_Visualizer/blob/main/assets/photo_2025-01-27_14-54-23.jpg)
+
 ---
 
 ## Installation
