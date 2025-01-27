@@ -36,6 +36,8 @@ To run this project, make sure you have the following installed:
 
 ---
 ## Demo Overview
+![Alt Text](https://raw.githubusercontent.com/Simret101/Sorting_Algorithm_Visualizer/main/assets/photo_2025-01-27_14-53-43.jpg)
+
 ---
 
 ## Installation
